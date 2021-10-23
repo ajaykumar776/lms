@@ -38,8 +38,8 @@
 		<div class="col-md-4" id="side_bar">
 			<h5>Library Timing</h5>
 			<ul>
-				<li>Opening Timing: 8:00 AM</li>
-				<li>Closing Timing: 8:00 PM</li>
+				<!-- <li>Opening Timing: 8:00 AM</li>
+				<li>Closing Timing: 8:00 PM</li> -->
 				<li>(Sunday off)</li>
 			</ul>
 			<h5>What we provide ?</h5>
