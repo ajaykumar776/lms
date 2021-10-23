@@ -33,13 +33,13 @@
 			</ul>
 		</div>
 	</nav><br>
-	<span><marquee>This is library Management System. Library opens at 9:00 AM and close at 8:00 PM</marquee></span><br><br>
+	<span><marquee>This is library Management System. Library opens at 9:00 pm and close at 8:00 PM</marquee></span><br><br>
 	<div class="row">
 		<div class="col-md-4" id="side_bar">
 			<h5>Library Timing</h5>
 			<ul>
-				<li>Opening Timing: 8:00 AM</li>
-				<li>Closing Timing: 8:00 PM</li>
+				<!-- <li>Opening Timing: 8:00 AM</li>
+				<li>Closing Timing: 8:00 PM</li> -->
 				<li>(Sunday off)</li>
 			</ul>
 			<h5>What we provide ?</h5>
